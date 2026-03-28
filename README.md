@@ -2,8 +2,8 @@
 # Digital Literacy Project
 
 ## 👤 Student Details
-- Name: Kushagra Mishra
-- Registration Number: (Your Reg No.)
+- Name: Shashwat Mishra
+- Registration Number: 25BCE10515
 - Branch: B.Tech CSE
 - Year: 1st Year
 
