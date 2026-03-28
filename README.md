@@ -4,7 +4,7 @@
 ## 👤 Student Details
 - Name: Shashwat Mishra
 - Registration Number: 25BCE10515
-- Branch: B.Tech CSE
+- Branch: B.Tech CSE CORE
 - Year: 1st Year
 
 ## 📘 Course Details
